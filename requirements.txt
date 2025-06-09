@@ -1,9 +1,11 @@
 streamlit
-joblib
-scikit-learn
 pandas
 numpy
-matplotlib
 requests
-transformers
+opencv-python-headless
+mediapipe
 torch
+Pillow
+joblib
+transformers
+youtube-transcript-api
